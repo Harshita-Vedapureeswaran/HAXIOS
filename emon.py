@@ -1,5 +1,5 @@
-#sign up window
-#to get details to create user account
+#Code by Shweta. M - 21BLC1337, Darshinii. K – 21BLC1302, Akilaa. M – 21BCE6178, Harshita. V – 21BCE6170
+# VIT Chennai
 
 from tkinter import ttk,PhotoImage
 import tkinter as tk
@@ -255,6 +255,5 @@ B2=ttk.Button(rootp,image=login,command=loginp).place(x=500,y=550)
 rootp.mainloop()
 mc.close()
 
-#Code by Shweta. M - 21BLC1337, Darshinii. K – 21BLC1302, Akilaa. M – 21BCE6178, Harshita. V – 21BCE6170
-# VIT Chennai
+
 
